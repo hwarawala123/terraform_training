@@ -25,3 +25,7 @@ variable "location" {
 variable "rg_name" {
   type = string
 }
+
+variable "vnet_n" {
+  type = string
+}
