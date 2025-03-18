@@ -29,3 +29,7 @@ variable "rg_name" {
 variable "vnet_n" {
   type = string
 }
+
+variable "vnet_n2" {
+  type = string
+}
